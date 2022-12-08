@@ -1,4 +1,4 @@
-
+## teat
 rm(list=ls())
 
 library(factoextra) ## To run PCA
